@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Konixize
-- 👀 I’m  devel
-- 💞️ I’m looking to collaborate sur des progrès de serveur fiveM
+
